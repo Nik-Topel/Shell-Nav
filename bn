@@ -1,6 +1,6 @@
 #!/bin/bash
 while [ true ]
 do
-        read  -n 50 -p $PWD"/" gointothis
+        read  -p $PWD"/" gointothis
         cd $gointothis && ls -a
 done
