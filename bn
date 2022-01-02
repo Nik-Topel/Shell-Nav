@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 while [ true ]
 do
         read -e -p $PWD"/" gointothis
