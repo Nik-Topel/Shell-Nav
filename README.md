@@ -1,5 +1,5 @@
-# Bash-Nav
-Simple Navigator Script for bash
+# Shell-Nav
+Simple Navigator Script for the unix shell
 
 To install just move the shell script into /usr/bin/
 
