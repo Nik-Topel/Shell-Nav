@@ -1,4 +1,5 @@
 # Bash-Nav
 Simple Navigator Script for bash
+To install just move the shell script into /usr/bin/
 
-add this "alias bn=". bn"" to your .bashrc to shorten the command to "bn"
+To shorten the command from ". bn" to "bn" put ' alias bn=". bn" ' into your .bashrc
